@@ -1,0 +1,2 @@
+-- GreenBasket: Seed categories, products, and reviews (Cleaned/Removed for Phase 3)
+-- All business tables must remain empty on initial seed.
